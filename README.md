@@ -43,14 +43,21 @@
 
         <h1 class="mb-4">Self Introduction</h1>
 
-        <div class="mb-4">
+
+        <h2 class="mb-1">Personal Details</h2>
+        <div class="mb-1">
             <strong>Name:</strong> Bensar F. Perez III<br>
             <strong>Birthday:</strong> September 22, 2004<br>
             <strong>Age:</strong> 19 (as of 2023)<br>
             <strong>Facebook:</strong> <a href="https://www.facebook.com/BensarPerezIII" target="_blank">Bensar Perez III</a><br>
+            <strong>Email:</strong> bensarprz@gmail.com<br>
             <strong>Number:</strong> 09561234240<br>
+      
+        <h2 class="mb-1">Hobbys and Sports</h2>
             <strong>Hobby:</strong> Listening to music and playing mobile games<br>
-            <strong>Sports:</strong> Badminton<br>
+            <strong>Sports:</strong> Badminton, Basketball<br>
+   
+            <h2 class="mb-1">Educational Background</h2>
             <strong>Elementary School:</strong> Legacy of Wisdom Academy Inc.<br>
             <strong>Junior High School:</strong> City of Bacoor National Highschool<br>
             <strong>Senior High School:</strong> St. Jude College Dasmarinas Cavite<br>
